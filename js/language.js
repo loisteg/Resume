@@ -55,9 +55,9 @@ const langArr = {
         "ua": "Мене звати Олексій"
     },
     "about__text": {
-        "ru": "И я Junior Front-End developer. Мне 20 лет, живу в городе Киев. Учусь и практикую свои знания уже 9 месяцев. За это время я успел понять, что работа с визуальной частью сайтов и приложений - это моя страсть. Такая работа даёт мне энергию каждый день писать всё больше и больше кода, просматривать тематические ролики/курсы, читать документация, в общем, развиваться.",
-        "en": "And I'm a junior front-end developer. I am 20 years old, I live in Kyiv, Ukraine. I have been studying and practicing my knowledge for 9 months now. During this time, I managed to understand that working with the visual part of websites and applications is my passion. Such work gives me energy to write more and more code every day, watch thematic videos / courses, read documentation, in general, develop.",
-        "ua": "І я Junior Front-End developer. Мені 20 років, живу у місті Київ. Навчаюся і практикую свої знання вже 9 місяців. За цей час я встиг зрозуміти, що робота з візуальною частиною сайтів та програм - це моя пристрасть. Така робота дає мені енергію щодня писати дедалі більше коду, переглядати тематичні ролики/курси, читати документацію, загалом, розвиватися."
+        "ru": "И я Junior Front-End developer. Мне 20 лет, живу в городе Киев. За время учёбы я успел понять, что работа с визуальной частью сайтов и приложений - это моя страсть. Такая работа даёт мне энергию каждый день писать всё больше и больше кода, просматривать тематические ролики/курсы, читать документация, в общем, развиваться.",
+        "en": "And I'm a junior front-end developer. I am 20 years old, I live in Kyiv, Ukraine. During study, I managed to understand that working with the visual part of websites and applications is my passion. Such work gives me energy to write more and more code every day, watch thematic videos / courses, read documentation, in general, develop.",
+        "ua": "І я Junior Front-End developer. Мені 20 років, живу у місті Київ. За цей час навчання встиг я зрозуміти, що робота з візуальною частиною сайтів та програм - це моя пристрасть. Така робота дає мені енергію щодня писати дедалі більше коду, переглядати тематичні ролики/курси, читати документацію, загалом, розвиватися."
     },
     "about__skills-f": {
         "ru": "Разработка сайтов",
