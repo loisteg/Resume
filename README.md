@@ -1,0 +1,1 @@
+This is my resume site. The original code with all the details can be found in the repository https://github.com/loisteg/About-me.
