@@ -189,6 +189,11 @@ const langArr = {
         "en": "This library allows you to create web applications. We can create the most interactive product for your purposes",
         "ua": "Ця бібліотека дозволяє створювати веб-програми. Ми можемо створити максимально інтерактивний продукт саме під ваші цілі"
     },
+    "work-item__descr-react-native": {
+        "ru": "Это популярная платформа мобильных приложений на основе JavaScript, которая позволяет создавать мобильные приложения с собственным интерфейсом для iOS и Android",
+        "en": "It is a popular JavaScript-based mobile app framework that allows you to create native mobile apps for iOS and Android",
+        "ua": "Це популярна платформа мобільних програм на основі JavaScript, яка дозволяє створювати мобільні програми з власним інтерфейсом для iOS і Android"
+    },
     "work-item__descr-redux": {
         "ru": "Эта библиотека для JavaScript предназначена для упрощения управлением состоянием приложения. Redux позволяет все состояние приложения хранится в одном месте",
         "en": "This JavaScript library is designed to simplify application state management. Redux allows all application state to be stored in one place",
